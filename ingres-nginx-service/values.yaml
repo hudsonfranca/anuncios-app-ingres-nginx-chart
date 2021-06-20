@@ -1,0 +1,9 @@
+anunciosAppBackend:
+  serviceName: anuncios-app-backend-chart-backend-service
+
+anunciosAppFrontend:
+  serviceName: anuncios-app-frontend-chart-frontend-service
+
+
+
+
